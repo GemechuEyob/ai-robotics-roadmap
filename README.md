@@ -49,9 +49,8 @@ This repo is also part of my goal to "teach what I learn" — so each folder may
 - Architecture diagrams
 
 ## 🔗 Resources
-- Notion Workspace: *link to Notion milestone tracker*
 - Book Progress: Mathematics for ML, Hands-On ML, Practical MLOps
-- Follow on Twitter / LinkedIn: *your handles here*
+- Follow on Twitter / LinkedIn: https://www.linkedin.com/in/eyob-gemechu/
 
 ---
 
