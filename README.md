@@ -50,7 +50,7 @@ This repo is also part of my goal to "teach what I learn" — so each folder may
 
 ## 🔗 Resources
 - Book Progress: Mathematics for ML, Hands-On ML, Practical MLOps
-- Follow on Twitter / LinkedIn: https://www.linkedin.com/in/eyob-gemechu/
+- Follow on LinkedIn: https://www.linkedin.com/in/eyob-gemechu/
 
 ---
 
